@@ -1,0 +1,311 @@
+# Copyright (C) 2023 bPlugins LLC
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Button Block 1.0.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/button-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-01-09T09:42:21+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: button-block\n"
+
+#. Plugin Name of the plugin
+msgid "Button Block"
+msgstr ""
+
+#. Description of the plugin
+msgid "Implement multi-functional button"
+msgstr ""
+
+#. Author of the plugin
+msgid "bPlugins LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bplugins.com"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7829
+msgid "Self"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7830
+msgid "New Tab"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7834
+msgid "Flat"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7835
+msgid "3D"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7839
+msgid "Small"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7840
+msgid "Medium"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7841
+msgid "Large"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7842
+msgid "X Large"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7846
+msgid "None"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7847
+msgid "Fade"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7848
+msgid "Fade Up"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7849
+msgid "Fade Down"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7850
+msgid "Fade Left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7851
+msgid "Fade Right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7852
+msgid "Flip Up"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7853
+msgid "Flip Down"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7854
+msgid "Flip Left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7855
+msgid "Flip Right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7856
+msgid "Zoom In"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7857
+msgid "Zoom In Up"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7858
+msgid "Zoom In Down"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7859
+msgid "Zoom In Left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7860
+msgid "Zoom In Right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7864
+msgid "General"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7865
+msgid "Style"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7893
+msgid "Help"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7900
+msgid "Would you please rate us?"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7901
+msgid "We are new and we need your help to grow!🙏"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7907
+msgid "Button Settings"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7908
+msgid "Button Url:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7910
+msgid "For download, enter downloadable link"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7912
+msgid "Tooltip Text:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7914
+msgid "If you want to add tooltip on button, type text rather then leave empty."
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7917
+msgid "Link Target:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7921
+msgid "Download Button"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7925
+msgid "Button Design"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7926
+msgid "Upload Icon?"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7929
+msgid "Enter Icon URL"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7933
+msgid "Button Type:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7948
+msgid "Button Full Width?"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7951
+msgid "Button Size:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7976
+msgid "Animation"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7978
+msgid "Type:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7982
+msgid "Duration (Speed) (s):"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7990
+msgid "Button"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7995
+msgid "Hover Colors:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:7997
+msgid "Padding:"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8010
+msgid "Button in left"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8011
+msgid "Button in center"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8012
+msgid "Button in right"
+msgstr ""
+
+#: dist/editor.js:1
+#: dist/editor.js:8235
+msgid "Button Text"
+msgstr ""
+
+#: block.json
+msgctxt "block title"
+msgid "Button"
+msgstr ""
+
+#: block.json
+msgctxt "block description"
+msgid "Implement multi-functional button."
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "multi-functional button"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "download button"
+msgstr ""
+
+#: block.json
+msgctxt "block keyword"
+msgid "link button"
+msgstr ""
